@@ -1,0 +1,9 @@
+{
+  "name": "lucent",
+  "version": "1.0.0",
+  "description": "Lightweight Windows taskbar calendar with Chinese lunar calendar support",
+  "dependencies": [
+    "wtl",
+    "nlohmann-json"
+  ]
+}
